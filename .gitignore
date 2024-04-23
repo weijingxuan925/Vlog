@@ -3,3 +3,5 @@
 /logs/
 #/vblog.iml
 
+/target/
+/node_modules/
